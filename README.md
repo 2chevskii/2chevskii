@@ -6,7 +6,7 @@
 >
 > Remember: There is nothing perfect ~~except for Toyota JZ engine~~, never stop grinding.
 
-### Occupation
+### :office: Occupation
 
 Software engineer at ***Skillaz***
 
@@ -32,7 +32,7 @@ Software engineer at ***Skillaz***
 
 ## :gear: Skills & technologies
 
-### Languages and frameworks
+### :file_folder: Languages and frameworks
 
 > Even tho my Microsoft-fanboy side tells me that C# is all you need for any situation,
 > sometimes I get bored and switch languages
@@ -54,7 +54,7 @@ Software engineer at ***Skillaz***
 ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Databases
+### :file_cabinet: Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -67,14 +67,14 @@ Software engineer at ***Skillaz***
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-### Containers
+### :building_construction: Containers
 
 > You can't live without containerization nowadays, can you?
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### WebServers
+### :airplane: WebServers
 
 > Classic
 
