@@ -41,6 +41,9 @@
 
 ### Languages and frameworks
 
+> Even tho my Microsoft-fanboy side tells me that C# is all you need for any situation,
+> sometimes I get bored and switch languages
+
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -66,32 +69,45 @@
 
 ### Events
 
+> Love Rabbit. Forced to get along with Kafka
+
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ### Containers
+
+> You can't live without containerization nowadays, can you?
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### WebServers
 
+> Classic
+
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### :hammer: Build tools
+### :hammer: Build tools & CI/CD
+
+> Those are the most convenient stuff you can find if you want to actually deploy efficiently
 
 ![Nuke.Build](https://img.shields.io/badge/nuke.build-FCC624?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
 
 ### :hammer_and_pick: Tools
 
-![Static Badge](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=Git)
-![Static Badge](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
-![Static Badge](https://img.shields.io/badge/Rider-black?style=for-the-badge&logo=rider)
-![Static Badge](https://img.shields.io/badge/dotTrace-black?style=for-the-badge&logo=jetbrains)
-![Static Badge](https://img.shields.io/badge/dotMemory-black?style=for-the-badge&logo=jetbrains)
-![Static Badge](https://img.shields.io/badge/WebStorm-black?style=for-the-badge&logo=webstorm)
-![Static Badge](https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=datagrip)
+> Short list of tools which I use most often
+
+![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=Git)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
+![Rider](https://img.shields.io/badge/Rider-black?style=for-the-badge&logo=rider)
+![dotTrace](https://img.shields.io/badge/dotTrace-black?style=for-the-badge&logo=jetbrains)
+![dotMemory](https://img.shields.io/badge/dotMemory-black?style=for-the-badge&logo=jetbrains)
+![WebStorm](https://img.shields.io/badge/WebStorm-black?style=for-the-badge&logo=webstorm)
+![DataGrip](https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=datagrip)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
@@ -99,8 +115,12 @@
 
 ### OS
 
+> My main workstation is Windows-based because nothing gives you more versatility.
+>
+> Linux is for servers. Windows is for desktops. MacOS is for showoff.
+
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Linux](https://img.shields.io/badge/WSL-FCC624?style=for-the-badge)
+![WSL](https://img.shields.io/badge/WSL-FCC624?style=for-the-badge)
 
 ### Game engines
 
@@ -109,7 +129,58 @@
 
 ### Graphics, compositing & 3d
 
+> While I cannot call my self to be anywhere near "good" designer or editor, I still eventually
+> do things related because I need to, and I like improving in that area
+
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## :basketball_woman: Hobbies
+
+### :video_game: Gaming
+
+> I have a long running affection towards gaming, will never grow up, probably
+>
+> I'm a competitive player, with primary focus on FPS
+> Almost never play singleplayer
+
+#### Currently playing
+
+- OSU! (200+ hrs, top 348k and grinding)
+- Helldivers II (250+ hrs)
+- Dota 2 (1000+ hrs, j4f, no rank)
+
+#### On hold
+
+- Escape From Tarkov (1000+ hrs)
+- CS:GO (1000+ hrs, Global Elite, yet to play CS2)
+- Rust (1800+ hrs)
+- GTAO (500+ hrs)
+- PUBG (1600+ hrs, game is dead)
+- Insurgency: Sandstorm (550+ hrs)
+
+### :japanese_castle: Anime, manga, LNs
+
+**Titles watched:** 400+
+
+**Manga vols read:** 100+
+
+**Light novel vols read:** 200+
+
+> Someday MAL will appear here, if I dedicate time to organize it
+
+### :car: Cars
+
+**Currently building:** ~~fucking trash dump~~ Opel Astra H GTC, 1.8 | Non-boring daily driver | money spent: $6k+
+
+**Next:** Lada 2107 | Drift missile
+
+**Dream:** Toyota Chaser JSX100
+
+---
+
+*All logos and trademarks listed on that page belong to their respective owners, original page text
+licensed under WTFPL-2.0, as per [LICENSE](./LICENSE)*
