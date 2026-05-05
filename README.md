@@ -1,5 +1,7 @@
 # :wave: What's up, I'm 2CHEVSKII
 
+![Profile banner](./assets/banner.png)
+
 ## :information_source: About
 
 > I'm passionate and demanding person. My speech is straightforward and non-sugarcoated, which can oftentimes be seen as toxic. Mean no harm to anybody tho, that's just how I want the world to be. That's how the world eventually will be.
@@ -8,7 +10,7 @@
 
 ### :office: Occupation
 
-Software engineer at ***Skillaz***
+Software engineer at ***Dodo Engineering***
 
 ### :teacher: Education
 
