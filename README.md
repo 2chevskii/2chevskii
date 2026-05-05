@@ -153,6 +153,8 @@ Software engineer at ***Dodo Engineering***
 
 #### Currently playing
 
+![](http://localhost:3000/badges/osu/user/small?username=2chevskii)
+
 - OSU! (200+ hrs, top 348k and grinding)
 - Helldivers II (250+ hrs)
 - Dota 2 (1000+ hrs, j4f, no rank)
