@@ -34,6 +34,9 @@ Software engineer at ***Dodo Engineering***
 
 ## :gear: Skills & technologies
 
+<details>
+<summary>Insanity and Courage</summary>
+
 ### :file_folder: Languages and frameworks
 
 > Even tho my Microsoft-fanboy side tells me that C# is all you need for any situation,
@@ -142,7 +145,12 @@ Software engineer at ***Dodo Engineering***
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+</details>
+
 ## :basketball_woman: Hobbies
+
+<details>
+<summary>Annoying people</summary>
 
 ### :video_game: Gaming
 
@@ -185,6 +193,8 @@ Software engineer at ***Dodo Engineering***
 **Next:** Lada 2107 | Drift missile
 
 **Dream:** Toyota Chaser JSX100
+
+</details>
 
 ---
 
