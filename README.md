@@ -28,7 +28,7 @@ Software engineer at ***Dodo Engineering***
 
 [![join-discord](https://img.shields.io/badge/Discord-become_a_member-5865F2?style=for-the-badge&logo=Discord&logoColor=5865F2&labelColor=black)](https://discord.gg/DBaqZNZ)
 
-[![join-tgch](https://img.shields.io/badge/Telegram_channel-Subscribe-0088CC?style=for-the-badge&logo=Telegram&logoColor=0088CC&labelColor=black)](https://discord.gg/DBaqZNZ)
+[![join-tgch](https://img.shields.io/badge/Telegram_channel-Subscribe-0088CC?style=for-the-badge&logo=Telegram&logoColor=0088CC&labelColor=black)](https://t.me/proddbg)
 
 [![follow-at-x](https://img.shields.io/twitter/follow/only_love1488?style=for-the-badge&logo=x&logoColor=%23ffffff&labelColor=%23000000&color=%23000000)](https://x.com/only_love1488)
 
